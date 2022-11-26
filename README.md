@@ -19,4 +19,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için , lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+![ekran alıntısı](https://github.com/umtcngl/kodluyoruzilkrepo/blob/main/img/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
 
